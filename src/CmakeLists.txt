@@ -1,0 +1,6 @@
+
+add_executable(vector # name of the executable on Windows will be example.exe 
+    main.c 
+    int_vector.h
+    int_vector.c
+    )
